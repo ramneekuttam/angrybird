@@ -1,5 +1,7 @@
 # Angry Bird Clone
-
+##Created by
+- [Anveshan Khanna](https://github.com/AnveshanK)
+- [Ramneek Uttam](https://www.github.com/ramneekuttam)
 ```markdown
 # 🐦 Angry Birds Game (LibGDX + Java)
 
