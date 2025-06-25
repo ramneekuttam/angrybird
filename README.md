@@ -119,7 +119,9 @@ The test suite includes logic checks like `checkWinCondition` and more.
 ## 📊 UML Diagram
 
 View the UML diagram for this project here:  
-[🔗 UML on Lucidchart](https://lucid.app/lucidchart/f52efb61-4c77-459d-83f9-aaa117162de2/edit?viewport_loc=-768%2C87%2C6972%2C3591%2CtGHv_QCDIsuB&invitationId=inv_a6f47a5b-2745-4f9b-b1d1-e950a6bd12)
+[🔗 UML on Lucidchart]([https://lucid.app/lucidchart/f52efb61-4c77-459d-83f9-aaa117162de2/edit?viewport_loc=-768%2C87%2C6972%2C3591%2CtGHv_QCDIsuB&invitationId=inv_a6f47a5b-2745-4f9b-b1d1-e950a6bd12](https://lucid.app/lucidchart/f52efb61-4c77-459d-83f9-aaa117162de2/edit?viewport_loc=-696%2C297%2C4791%2C2367%2C0_0&invitationId=inv_a6f47a5b-2745-4f9b-b1d1-e950a6bd124d))
+[🔗 Use Case Diagram on Lucidchart](https://lucid.app/lucidchart/f52efb61-4c77-459d-83f9-aaa117162de2/edit?viewport_loc=-696%2C297%2C4791%2C2367%2C0_0&invitationId=inv_a6f47a5b-2745-4f9b-b1d1-e950a6bd124d](https://lucid.app/lucidchart/389b1950-ae2c-4881-bfdf-a91031daff96/edit?viewport_loc=-762%2C-1054%2C3194%2C1578%2C.Q4MUjXso07N&invitationId=inv_000664bd-bd67-400e-8da2-3b1e48203305))
+
 
 ---
 
